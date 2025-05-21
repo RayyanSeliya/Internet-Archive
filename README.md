@@ -7,7 +7,11 @@ Built with **React** (frontend) and **Flask + SQLAlchemy** (backend).
 
 ## Demo Video
 
-*Demo video will be added here.*
+
+https://github.com/user-attachments/assets/07fffb22-82e4-4dbe-a1c9-9aac76f909e5
+
+
+
 
 ---
 
